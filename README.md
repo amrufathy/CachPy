@@ -37,4 +37,4 @@ Parameters
 * `ignore_cache`: Ignore caching, doesn't read or write any files. Just calls the function to re-evaluate. (default = `False`)
 * `reload_cache`: Re-evaluate the function and overwrite the saved file. (default = `False`)
 
-*For constantly changing input values, you should set `reload_cache = True` OR `ignore_cache = `True`*
+*For constantly changing input values, you should set `reload_cache = True` OR `ignore_cache = True`*
