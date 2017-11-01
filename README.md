@@ -4,8 +4,14 @@ CachPy is an object agnostic (doesn't assume anything about the objects), fast, 
 CachPy uses a naive caching mechanism. It checks if file existence only and doesn't look for input changes.
 
 ## Installation
+Python 2.7.x :
 ```
-pip install setup.py
+sudo pip install setup.py
+```
+
+Python 3:
+```
+sudo pip3 install setup.py
 ```
 
 ## Compatability
